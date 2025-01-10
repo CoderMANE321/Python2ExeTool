@@ -2,6 +2,7 @@ I find myself converting python files to executables often on different platform
 
 Using Pyinstaller, I wanted to focus on linux and windows use because I work out of linux for penetration testing but I target Windows machines mostly.
 
+Please mute I forgot to turn audio off =).
 Example video here https://youtu.be/H8bVth2W-dQ!
 
 Steps:

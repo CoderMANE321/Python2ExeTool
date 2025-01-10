@@ -9,8 +9,14 @@ Example video here https://youtu.be/H8bVth2W-dQ!
 Steps:
 
 1.python Python2Exe.py "tobeEXE.py"
+
+
 2.enter test arguments, if none press enter(arguments come in string type by default)
+
+
 3.if output is what's expected press y to test again and then enter names of third party libraries
+
+
 4.let program build
 
 Yay, new executable!!
